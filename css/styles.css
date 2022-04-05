@@ -68,17 +68,20 @@ font-size: 3.5vh;
 background-color: rgb(121, 154, 255);
 color: white ;
 margin-top: 35vh;
-margin-left: -106vh;
 border-top-left-radius:0.5vh;
   border-top-right-radius:0.5vh;
   border-bottom-left-radius:0.5vh;
   border-bottom-right-radius:0.5vh;
   font-family:Arial;
   font-weight:bold;
-  width:22vh;
-  height:6vh;
+  width:30vh;
+  height:10vh;
   text-align: center;
   text-decoration:none;
+}
+.appKnop:hover{
+  color:white;
+  background-color: rgb(71, 117, 253);
 }
 *,
 *::before,
